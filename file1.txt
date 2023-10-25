@@ -1,1 +1,2 @@
-content from the master branch
+content from the new branch
+>>>>>>> branch1
